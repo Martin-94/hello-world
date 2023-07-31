@@ -1,2 +1,3 @@
 # hello-world
-description
+Tommorow is a new day
+For new kinds of work
